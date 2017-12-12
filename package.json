@@ -1,0 +1,27 @@
+{
+  "name": "scroll-flip-page",
+  "version": "1.0.0",
+  "description": "A super easy to use infinite scroll component.(Vue component)",
+  "main": "dist/scroll-flip-page.js",
+  "keywords": [
+    "scroll",
+    "infinite",
+    "refresh",
+    "flip",
+    "page",
+    "vue"
+  ],
+  "scripts": {
+    "dev": "poi --entry ./demo/index.js --port 4444",
+    "build": "poi build scroll-flip-page.vue --format umd --module-name ScrollFlipPage --no-sourceMap --no-html --filename.js scroll-flip-page.js"
+  },
+  "author": "HcySunYang",
+  "license": "MIT",
+  "dependencies": {
+    "finger-mover": "^1.2.9",
+    "simulation-scroll-y": "^1.2.9"
+  },
+  "devDependencies": {
+    "vue-resource": "^1.3.4"
+  }
+}
