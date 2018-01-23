@@ -1,4 +1,4 @@
-# scroll-filp-page
+# scroll-flip-page
 
 A super easy to use infinite scroll component.(Vue component)
 
