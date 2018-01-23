@@ -11,7 +11,7 @@ A super easy to use infinite scroll component.(Vue component)
 该组件封装自开源框架 [finger-mover](https://fmover.hcysun.me/#/zh-cn/) 的 [simulation-scroll-y](https://fmover.hcysun.me/#/zh-cn/plugins/simulation-scroll-y) 插件，故你需要安装之：
 
 ```sh
-npm install --save finger-mover simulation-scroll-y scroll-filp-page
+npm install --save finger-mover simulation-scroll-y scroll-flip-page
 ```
 
 ## Why?
