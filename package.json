@@ -18,8 +18,8 @@
   "author": "HcySunYang",
   "license": "MIT",
   "devDependencies": {
-    "vue-resource": "^1.3.4",
-    "finger-mover": "^1.2.9",
-    "simulation-scroll-y": "^1.2.9"
+    "finger-mover": "^1.3.2",
+    "simulation-scroll-y": "^1.3.2",
+    "vue-resource": "^1.3.4"
   }
 }

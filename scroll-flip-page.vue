@@ -101,7 +101,9 @@ export default {
       this.fm[0].scrollTo(target, time, limit)
     },
     loadEnd () {
-      this.fm[0].loadEnd()
+      setTimeout(() => {
+        this.fm[0].loadEnd()
+      }, 500)
     },
     refresh (callBack) {
       this.fm[0].refresh(callBack)
