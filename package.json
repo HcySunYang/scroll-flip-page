@@ -1,6 +1,6 @@
 {
   "name": "scroll-flip-page",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A super easy to use infinite scroll component.(Vue component)",
   "main": "dist/scroll-flip-page.js",
   "keywords": [
