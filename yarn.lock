@@ -29,8 +29,8 @@ core-util-is@~1.0.0:
   resolved "http://r.npm.sankuai.com/core-util-is/download/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "http://r.npm.sankuai.com/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 decompress-response@^3.3.0:
   version "3.3.0"
